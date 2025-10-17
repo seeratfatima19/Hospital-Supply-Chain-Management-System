@@ -4,9 +4,6 @@
 The **Hospital Supply Chain Management System (HSCMS)** is an ASP.NET Core MVC web application designed to help hospital admins and staff manage medical supplies, orders, and supplier information efficiently and effectively. The proposed system will streamline the process of tracking current inventory levels, recording supply orders, managing vendors, and generating reports.
 It aims to tackle issues of supply shortages,  overstocking of inventory items, and  transparency within the hospital’s supply chain. The HSCMS will demonstrate core ASP.NET concepts such as data modeling, dependency injection, CRUD operations, diagnostics, logging, and stored procedures through incremental weekly development. After completion, app will be deployed on Azure platform.
 
-<style>
-
-</style>
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr style="background-color: white;">
